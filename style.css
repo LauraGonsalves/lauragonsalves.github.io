@@ -24,6 +24,7 @@
     padding: 0;
     margin: 0;
     outline: none;
+    text-transform: capitalize;
 
 
 
@@ -442,7 +443,7 @@ button {
 }
 
 .portfolio-item {
-    width: calc((100% /2) - 30px);
+    width: calc((100% /3) - 30px);
     margin: 0 15px 30px;
 }
 
@@ -534,6 +535,7 @@ button {
 }
 
 .pp-thumbnail img {
+
     border-radius: 10px;
 
 }
