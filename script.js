@@ -71,6 +71,7 @@ document.addEventListener("click", (e) => {
 });
 
 
+
 function portfolioitemdetails(portfolioItem) {
   document.querySelector(".pp-thumbnail img").src =
     portfolioItem.querySelector(".portfolio-item-thumbnail img").src;
